@@ -1,0 +1,6 @@
+[user]
+	name = "Rocky Wright"
+	email = "rocky.go.lucky@proton.me"
+	signingkey = AFF0B72F8671FD7B
+[commit]
+	gpgsign = true
